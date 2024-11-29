@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jinxj\\Sweet-Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\destroyparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestroyParticle.cs",
-              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\DestroyParticle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyParticle.cs",
-              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\DestroyParticle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DestroyParticle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:42:42.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SwipeController.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\SwipeController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SwipeController.cs",
@@ -64,20 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FindMatches.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\FindMatches.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FindMatches.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\FindMatches.cs",
               "RelativeToolTip": "Assets\\Scripts\\FindMatches.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAASwFYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwPEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T18:24:01.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BackgroundTile.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\BackgroundTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundTile.cs",
@@ -89,29 +72,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Dot.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dot.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Dot.cs",
-              "ViewState": "AgIAADUBAAAAAAAAAAAYwCIBAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAALEBAAAAAAAAAAAmwMcBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T17:41:26.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:41:26.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAwK8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAQwK8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:59:30.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:59:30.614Z"
             }
           ]
         }

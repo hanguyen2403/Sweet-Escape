@@ -152,7 +152,7 @@ MonoBehaviour:
   currentState: 1
   width: 7
   height: 10
-  Offset: 30
+  Offset: 10
   tilePrefab: {fileID: 7328623813682836764, guid: 6989e66c1d58a714c825d5a1f4abf0e9, type: 3}
   destroyEffect: {fileID: 5185029126803185019, guid: eb804980dae44a54181495a7905fc766, type: 3}
   boardLayout:

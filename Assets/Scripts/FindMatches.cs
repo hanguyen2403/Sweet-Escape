@@ -12,7 +12,7 @@ public class FindMatches : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        board = FindAnyObjectByType<Board>();
+        board = FindObjectOfType<Board>();
     }
 
     public void FindAllMatches()

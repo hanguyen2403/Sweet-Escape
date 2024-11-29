@@ -436,6 +436,24 @@ public class Dot : MonoBehaviour
         }
     }
 
+    void MovePiecesActual(Vector2 direction)
+    {
+        otherDot = board.allDots[column + (int)direction.x, row + (int)direction.y];
+        previousRow = row;
+        previousColumn = column;
+        if (otherDot != null)
+        {
+            otherDot.GetComponent<Dot>().column += -1 * (int)direction.x;
+            otherDot.GetComponent<Dot>().row += -1 * (int)direction.y;
+            column += (int)direction.x;
+            row += (int)direction.y;
+            StartCoroutine(CheckMoveCo());
+        }
+        else
+        {
+            board.currentState = GameState.move;
+        }
+    }
     void MovePieces()
     {
         if (swipeAngle > -45 && swipeAngle <= 45 && column < board.width - 1)
