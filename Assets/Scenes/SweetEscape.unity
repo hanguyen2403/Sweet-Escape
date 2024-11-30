@@ -150,8 +150,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 1
-  width: 7
-  height: 10
+  width: 5
+  height: 15
   Offset: 30
   tilePrefab: {fileID: 7328623813682836764, guid: 6989e66c1d58a714c825d5a1f4abf0e9, type: 3}
   destroyEffect: {fileID: 5185029126803185019, guid: eb804980dae44a54181495a7905fc766, type: 3}
@@ -160,9 +160,6 @@ MonoBehaviour:
   - {fileID: 8409321996837786708, guid: 1c2031274d6c0d8449859ad988064bb6, type: 3}
   - {fileID: 3690264733587326452, guid: 4e2b476b9670d4e499de20a4ed7dfbe7, type: 3}
   - {fileID: 1473238645392666411, guid: 888e3d472b80e8144b1636597e28d3b1, type: 3}
-  - {fileID: 1104716138424254426, guid: 00da130e2d0182f4faa382d1ff5d2cc8, type: 3}
-  - {fileID: 163391601069993138, guid: ca7657a6b4de1d74d8d1df1b6c170809, type: 3}
-  - {fileID: 408737691183382992, guid: ea82b507a3b0cb642b5ffa28290f360b, type: 3}
   currentDot: {fileID: 0}
 --- !u!4 &123548081
 Transform:
@@ -272,6 +269,7 @@ GameObject:
   - component: {fileID: 1617105626}
   - component: {fileID: 1617105625}
   - component: {fileID: 1617105628}
+  - component: {fileID: 1617105629}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -398,6 +396,21 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!114 &1617105629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617105624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d303ede953cad498baad08b61ec287, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraOffset: -10
+  aspectRatio: 0.625
+  padding: 2
 --- !u!1 &1900563425
 GameObject:
   m_ObjectHideFlags: 0
