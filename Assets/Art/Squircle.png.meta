@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c13aaec9feefa694ba2a08676fae5495
+guid: 614fb6973ac42194794acfa0903b8c7b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1198477067713850731
-    second: Panel_0
+      213: 2848517285599912367
+    second: Squircle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 576
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panel_0
+      name: Squircle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 736
-        height: 736
+        x: 84
+        y: 93
+        width: 308
+        height: 306
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 592d67be4772e5fe0800000000000000
-      internalID: -1198477067713850731
+      spriteID: fa12eb01167f78720800000000000000
+      internalID: 2848517285599912367
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Panel_0: -1198477067713850731
+      Squircle_0: 2848517285599912367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -150,11 +150,49 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 1
-  width: 5
-  height: 15
-  Offset: 30
+  width: 7
+  height: 10
+  Offset: 10
   tilePrefab: {fileID: 7328623813682836764, guid: 6989e66c1d58a714c825d5a1f4abf0e9, type: 3}
+  breakableTilePrefab: {fileID: 3102309944181028466, guid: dfc6f95240199724ba3abe7ccdcb36d0, type: 3}
   destroyEffect: {fileID: 5185029126803185019, guid: eb804980dae44a54181495a7905fc766, type: 3}
+  boardLayout:
+  - x: 0
+    y: 0
+    tileKind: 1
+  - x: 6
+    y: 9
+    tileKind: 1
+  - x: 6
+    y: 0
+    tileKind: 1
+  - x: 0
+    y: 9
+    tileKind: 1
+  - x: 4
+    y: 4
+    tileKind: 1
+  - x: 5
+    y: 4
+    tileKind: 1
+  - x: 3
+    y: 4
+    tileKind: 1
+  - x: 2
+    y: 4
+    tileKind: 1
+  - x: 1
+    y: 4
+    tileKind: 1
+  - x: 1
+    y: 5
+    tileKind: 0
+  - x: 1
+    y: 6
+    tileKind: 0
+  - x: 1
+    y: 7
+    tileKind: 0
   dots:
   - {fileID: 8750515523887743277, guid: 392b4dbf07e474b49b8c123635d70c8a, type: 3}
   - {fileID: 8409321996837786708, guid: 1c2031274d6c0d8449859ad988064bb6, type: 3}
