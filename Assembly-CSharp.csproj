@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Dot.cs" />
+    <Compile Include="Assets\Scripts\HintManager.cs" />
     <Compile Include="Assets\Scripts\Board.cs" />
     <Compile Include="Assets\Scripts\CameraScalar.cs" />
     <Compile Include="Assets\Scripts\FindMatches.cs" />
