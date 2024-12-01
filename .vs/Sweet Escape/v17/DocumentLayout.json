@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|d:\\uni\\computer graphics\\project\\sweet escape\\assets\\scripts\\camerascalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|d:\\uni\\computer graphics\\project\\sweet escape\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|d:\\uni\\computer graphics\\project\\sweet escape\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\findmatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\assets\\scripts\\camerascalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C0DCEB-FE55-A3E0-0746-D2CA89F117F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,16 +46,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiberationSans - OFL.txt",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-01T08:02:39.331Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:05:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackgroundTile.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\BackgroundTile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundTile.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\BackgroundTile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundTile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:48:01.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CameraScalar.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\CameraScalar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScalar.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\CameraScalar.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraScalar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:12:19.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T06:12:19.519Z"
             },
             {
               "$type": "Document",
@@ -53,10 +101,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAtwMoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:11:55.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T04:11:55.156Z"
             },
             {
               "$type": "Document",
@@ -66,19 +113,19 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\FindMatches.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\FindMatches.cs",
               "RelativeToolTip": "Assets\\Scripts\\FindMatches.cs",
-              "ViewState": "AgIAANAAAAAAAAAAAAAcwAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAtwN8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T03:50:53.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dot.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dot.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Dot.cs",
-              "ViewState": "AgIAANIBAAAAAAAAAAAiwOwBAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB0CAAAAAAAAAAAswCwCAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T02:51:58.924Z"
             }

@@ -6,6 +6,7 @@ public class CameraScalar : MonoBehaviour
     public float cameraOffset;
     public float aspectRatio = 0.625f;
     public float padding = 2;
+    public float yOffset = 1;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,7 +19,7 @@ public class CameraScalar : MonoBehaviour
 
     void RepositionCamera( float x, float y)
     {
-        Vector3 tempPosotion = new Vector3(x/2, y/2, cameraOffset);
+        Vector3 tempPosotion = new Vector3(x/2, y/2 + yOffset, cameraOffset);
         transform.position = tempPosotion;
         if (board.width >= board.height) { 
             Camera.main.orthographicSize = (board.width / 2 + padding) / aspectRatio;

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jinxj\\Sweet-Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jinxj\\Sweet-Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\hintmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hintmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanvasScaler.cs",
+              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
+              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:31:10.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dot.cs",
+              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dot.cs",
+              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dot.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAAAJwBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:40:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HintManager.cs",
+              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\HintManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HintManager.cs",
+              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\HintManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HintManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:33:12.751Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,19 +79,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundTile.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\BackgroundTile.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackgroundTile.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:03:33.534Z"
+              "WhenOpened": "2024-11-30T14:03:33.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
-              "ViewState": "AgIAAJMBAAAAAAAAAAAvwJsBAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAkwE4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T06:55:24.83Z",
               "EditorCaption": ""
