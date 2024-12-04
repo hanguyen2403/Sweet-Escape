@@ -63,6 +63,11 @@ public class GameData : MonoBehaviour
             Debug.Log("Loaded");
         }
     }
+
+    private void OnApplicationQuit()
+    {
+        Save();
+    }
     private void OnDisable()
     {
         Save();

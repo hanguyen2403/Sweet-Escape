@@ -294,7 +294,8 @@ public class Dot : MonoBehaviour
 
         endGameManager = FindObjectOfType<EndGameManager>();
         hintManager = FindObjectOfType<HintManager>();
-        board = FindObjectOfType<Board>();
+        board = GameObject.FindWithTag("Board").GetComponent<Board>();
+        // board = FindObjectOfType<Board>();
         findMatches = FindObjectOfType<FindMatches>();
         //targetX = (int)transform.position.x;
         //targetY = (int)transform.position.y;
@@ -548,31 +549,43 @@ public class Dot : MonoBehaviour
 
     public void MakeRowBomb()
     {
-        isRowBomb = true;
-        GameObject arrow = Instantiate(rowArrow, transform.position, Quaternion.identity);
-        arrow.transform.parent = this.transform;
+        if (!isColumnBomb && !isColorBomb && !isAdjacentBomb) 
+        { 
+            isRowBomb = true;
+            GameObject arrow = Instantiate(rowArrow, transform.position, Quaternion.identity);
+            arrow.transform.parent = this.transform;
+        }
     }
 
     public void MakeColumnBomb()
     {
-        isColumnBomb = true;
-        GameObject arrow = Instantiate(columnArrow, transform.position, Quaternion.identity);
-        arrow.transform.parent = this.transform;
+        if (!isRowBomb && !isColorBomb && !isAdjacentBomb)
+        {
+            isColumnBomb = true;
+            GameObject arrow = Instantiate(columnArrow, transform.position, Quaternion.identity);
+            arrow.transform.parent = this.transform;
+        }
     }
 
 
     public void MakeColorBomb()
     {
-        isColorBomb = true;
-        GameObject color = Instantiate(colorBomb, transform.position, Quaternion.identity);
-        color.transform.parent = this.transform;
-        this.gameObject.tag = "Color";
+        if (!isColumnBomb && !isRowBomb && !isAdjacentBomb)
+        {
+            isColorBomb = true;
+            GameObject color = Instantiate(colorBomb, transform.position, Quaternion.identity);
+            color.transform.parent = this.transform;
+            this.gameObject.tag = "Color";
+        }
     }
     public void MakeAdjacentBomb()
     {
-        isAdjacentBomb = true;
-        GameObject maker = Instantiate(adjacentMarker, transform.position, Quaternion.identity);
-        maker.transform.parent = this.transform;
+        if (!isColumnBomb && !isRowBomb && !isColorBomb)
+        {
+            isAdjacentBomb = true;
+            GameObject maker = Instantiate(adjacentMarker, transform.position, Quaternion.identity);
+            maker.transform.parent = this.transform;
+        }
     }
 
 }
