@@ -12,6 +12,7 @@ TagManager:
   - purple
   - brown
   - pink
+  - breakable
   layers:
   - Default
   - TransparentFX
