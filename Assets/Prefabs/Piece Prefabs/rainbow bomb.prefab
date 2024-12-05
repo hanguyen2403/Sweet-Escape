@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5040598157249894843}
   m_Layer: 0
   m_Name: rainbow bomb
-  m_TagString: Untagged
+  m_TagString: Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: -4347442876239910718, guid: da4850ddb35d0b7459079c704b2b97cb, type: 3}
+  m_Sprite: {fileID: 2059329713, guid: 79145d5f753bb2b41892a643b6760a6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

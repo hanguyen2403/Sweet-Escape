@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7473700038399209972}
   - component: {fileID: -2953471201611353119}
   m_Layer: 0
-  m_Name: Breakable Tile
+  m_Name: Lock Tile
   m_TagString: breakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,7 +28,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.501, y: 2.506, z: 0}
-  m_LocalScale: {x: 1.7564089, y: 1.7543858, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -74,11 +74,11 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 3
-  m_Sprite: {fileID: 2848517285599912367, guid: 614fb6973ac42194794acfa0903b8c7b, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.654902}
+  m_SortingLayerID: -1907343439
+  m_SortingLayer: 1
+  m_SortingOrder: 8
+  m_Sprite: {fileID: -286527665, guid: 79145d5f753bb2b41892a643b6760a6e, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -100,4 +100,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfbe71f1373ce6c49b4c9d3422cf8eb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: 3
+  hitPoints: 2

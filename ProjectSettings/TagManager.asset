@@ -13,6 +13,9 @@ TagManager:
   - brown
   - pink
   - breakable
+  - Board
+  - explore
+  - Color
   layers:
   - Default
   - TransparentFX
@@ -47,8 +50,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Above Dot
+    uniqueID: 2934341363
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Markers
+    uniqueID: 2387623857
     locked: 0
   m_RenderingLayers:
   - Default

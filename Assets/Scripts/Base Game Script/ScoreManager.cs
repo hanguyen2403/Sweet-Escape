@@ -8,6 +8,7 @@ public class ScoreManager : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public int score;
     public UnityEngine.UI.Image scoreBar;
+    private int numberStars;
     private GameData gameData;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -27,6 +28,13 @@ public class ScoreManager : MonoBehaviour
     public void IncreaseScore( int amountToIncrease)
     {
         score += amountToIncrease;
+        for (int i = 0; i < board.scoreGoals.Length; i++)
+        {
+            if (score > board.scoreGoals[i] && numberStars < i + 1)
+            {
+                numberStars++;
+            }
+        }
         if (board != null && scoreBar != null) { 
             int length = board.scoreGoals.Length;
             scoreBar.fillAmount = (float)  score / (float) board.scoreGoals[length -1];
@@ -37,19 +45,20 @@ public class ScoreManager : MonoBehaviour
             if (score > gameData.saveData.highScores[board.level])
             {
                 gameData.saveData.highScores[board.level] = score;
+                gameData.saveData.stars[board.level] = numberStars;
             }
-            if (score > board.scoreGoals[0])
-            {
-                gameData.saveData.stars[board.level] = 1;
-            }
-            if (score > board.scoreGoals[1])
-            {
-                gameData.saveData.stars[board.level] = 2;
-            }
-            if (score > board.scoreGoals[2])
-            {
-                gameData.saveData.stars[board.level] = 3;
-            }
+            //if (score > board.scoreGoals[0])
+            //{
+            //    gameData.saveData.stars[board.level] = 1;
+            //}
+            //if (score > board.scoreGoals[1])
+            //{
+            //    gameData.saveData.stars[board.level] = 2;
+            //}
+            //if (score > board.scoreGoals[2])
+            //{
+            //    gameData.saveData.stars[board.level] = 3;
+            //}
             gameData.Save();
         }
     }
