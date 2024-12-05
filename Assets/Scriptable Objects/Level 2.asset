@@ -14,19 +14,83 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 6
   height: 8
-  boardLayout: []
+  boardLayout:
+  - x: 1
+    y: 1
+    tileKind: 1
+  - x: 0
+    y: 0
+    tileKind: 1
+  - x: 0
+    y: 1
+    tileKind: 1
+  - x: 1
+    y: 0
+    tileKind: 1
+  - x: 0
+    y: 6
+    tileKind: 1
+  - x: 0
+    y: 7
+    tileKind: 1
+  - x: 1
+    y: 6
+    tileKind: 1
+  - x: 1
+    y: 7
+    tileKind: 1
+  - x: 4
+    y: 7
+    tileKind: 1
+  - x: 5
+    y: 6
+    tileKind: 1
+  - x: 5
+    y: 7
+    tileKind: 1
+  - x: 4
+    y: 6
+    tileKind: 1
+  - x: 4
+    y: 0
+    tileKind: 1
+  - x: 5
+    y: 0
+    tileKind: 1
+  - x: 4
+    y: 1
+    tileKind: 1
+  - x: 5
+    y: 1
+    tileKind: 1
+  - x: 2
+    y: 3
+    tileKind: 2
+  - x: 3
+    y: 3
+    tileKind: 2
+  - x: 2
+    y: 4
+    tileKind: 2
+  - x: 3
+    y: 4
+    tileKind: 2
   dots:
   - {fileID: 8750515523887743277, guid: 392b4dbf07e474b49b8c123635d70c8a, type: 3}
-  - {fileID: 8409321996837786708, guid: 1c2031274d6c0d8449859ad988064bb6, type: 3}
+  - {fileID: 408737691183382992, guid: ea82b507a3b0cb642b5ffa28290f360b, type: 3}
   - {fileID: 3690264733587326452, guid: 4e2b476b9670d4e499de20a4ed7dfbe7, type: 3}
-  - {fileID: 1473238645392666411, guid: 888e3d472b80e8144b1636597e28d3b1, type: 3}
+  - {fileID: 163391601069993138, guid: ca7657a6b4de1d74d8d1df1b6c170809, type: 3}
   - {fileID: 1104716138424254426, guid: 00da130e2d0182f4faa382d1ff5d2cc8, type: 3}
-  scoreGoals: 64000000c80000002c010000
+  scoreGoals: f4010000e8030000dc050000
   endGameRequirements:
-    gameType: 1
-    counterValue: 100
+    gameType: 0
+    counterValue: 30
   levelGoals:
   - numberNeeded: 20
-    numberCollected: 0
-    goalSprite: {fileID: 96420675905670400, guid: 91b7779cd29f9084c989de724b857e54, type: 3}
-    matchValue: brown
+    numberCollected: 22
+    goalSprite: {fileID: -1964509914, guid: 79145d5f753bb2b41892a643b6760a6e, type: 3}
+    matchValue: red
+  - numberNeeded: 4
+    numberCollected: 4
+    goalSprite: {fileID: -286527665, guid: 79145d5f753bb2b41892a643b6760a6e, type: 3}
+    matchValue: breakable

@@ -47,18 +47,6 @@ public class ScoreManager : MonoBehaviour
                 gameData.saveData.highScores[board.level] = score;
                 gameData.saveData.stars[board.level] = numberStars;
             }
-            //if (score > board.scoreGoals[0])
-            //{
-            //    gameData.saveData.stars[board.level] = 1;
-            //}
-            //if (score > board.scoreGoals[1])
-            //{
-            //    gameData.saveData.stars[board.level] = 2;
-            //}
-            //if (score > board.scoreGoals[2])
-            //{
-            //    gameData.saveData.stars[board.level] = 3;
-            //}
             gameData.Save();
         }
     }

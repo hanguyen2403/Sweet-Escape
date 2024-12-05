@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\BackgroundTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\BackgroundTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Scriptable Objects\\Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\World.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Scriptable Objects\\World.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\FindMatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\BackgroundTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Base Game Script\\BackgroundTile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GraphicEditor.cs",
-              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAWwDEAAABBAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptable Objects\\World.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\World.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scriptable Objects\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T10:42:58.553Z",
+              "WhenOpened": "2024-12-05T14:25:56.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scriptable Objects\\Level.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Scriptable Objects\\Level.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scriptable Objects\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:25:56.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Outline.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs",
@@ -63,25 +84,24 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\VertexModifiers\\Outline.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:56:17.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:56:17.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\ScoreManager.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\ScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\ScoreManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:52:17.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BackgroundTile.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\BackgroundTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\BackgroundTile.cs",
@@ -94,39 +114,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FindMatches.cs",
-              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\FindMatches.cs",
-              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\FindMatches.cs",
-              "ViewState": "AgIAAA8BAAAAAAAAAAAWwCQBAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:58:25.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Board.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\Board.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T03:58:15.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GraphicEditor.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Editor\\UGUI\\UI\\GraphicEditor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAWwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:42:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FindMatches.cs",
+              "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\FindMatches.cs",
+              "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\FindMatches.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAWwFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:58:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dot.cs",
               "DocumentMoniker": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Dot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\Dot.cs",
               "ToolTip": "D:\\Uni\\Computer Graphics\\project\\Sweet Escape\\Assets\\Scripts\\Base Game Script\\Dot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\Dot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAANkBAAAAAAAAAAAWwPgBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T03:56:11.412Z",
               "EditorCaption": ""
