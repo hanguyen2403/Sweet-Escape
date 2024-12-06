@@ -355,7 +355,6 @@ public class Board : MonoBehaviour
             }
         }
     }
-
     private void DestroyMatchesAt(int column, int row)
     {
         if (allDots[column, row].GetComponent<Dot>().isMatched)
