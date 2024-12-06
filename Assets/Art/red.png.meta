@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: 8166710274925509176
     second: red_0
-  - first:
-      213: -523259844147669826
-    second: red_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,10 +103,10 @@ TextureImporter:
       name: red_0
       rect:
         serializedVersion: 2
-        x: 58
-        y: 20
-        width: 852
-        height: 700
+        x: 7
+        y: 10
+        width: 83
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,28 +117,6 @@ TextureImporter:
       bones: []
       spriteID: 83ab778d9bbf55170800000000000000
       internalID: 8166710274925509176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: red_1
-      rect:
-        serializedVersion: 2
-        x: 936
-        y: 668
-        width: 6
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb41a50b1f10db8f0800000000000000
-      internalID: -523259844147669826
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      red_0: 8166710274925509176
-      red_1: -523259844147669826
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

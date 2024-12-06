@@ -3183,6 +3183,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pausePanel: {fileID: 598035228}
   paused: 0
+  soundButton: {fileID: 0}
+  musicOnSprite: {fileID: 0}
+  musicOffSprite: {fileID: 0}
 --- !u!1 &1505637286
 GameObject:
   m_ObjectHideFlags: 0

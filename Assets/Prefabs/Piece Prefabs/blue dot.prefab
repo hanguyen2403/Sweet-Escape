@@ -138,9 +138,9 @@ MonoBehaviour:
   isColumnBomb: 0
   isRowBomb: 0
   isAdjacentBomb: 0
-  adjacentMarker: {fileID: 8303845282954941747, guid: 5b3e38e99b504f641a18ed26700070a2, type: 3}
-  rowArrow: {fileID: 6482922767402740815, guid: 80fc83f8221c3d94ab8b3c007e7ebd5b, type: 3}
-  columnArrow: {fileID: 5989208238941581752, guid: 7fc9ebb32a446f345b7392e722a4be13, type: 3}
+  adjacentMarker: {fileID: 8778384522665849066, guid: c8d527ea3c8d61342b52bd237353faa0, type: 3}
+  rowArrow: {fileID: 1809208698662939161, guid: b1403d73194b8d6489056f49154eeca8, type: 3}
+  columnArrow: {fileID: 402968124488536284, guid: b35cd11c181258f4eb08d388a27449d0, type: 3}
   colorBomb: {fileID: 2728255730087227114, guid: 972451a624abb2942b895651d126f2af, type: 3}
 --- !u!58 &2619370477391058643
 CircleCollider2D:

@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: -6099873399732076034
     second: green_0
-  - first:
-      213: 5479186271568450577
-    second: green_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,10 +103,10 @@ TextureImporter:
       name: green_0
       rect:
         serializedVersion: 2
-        x: 57
-        y: 19
-        width: 853
-        height: 702
+        x: 7
+        y: 10
+        width: 83
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,28 +117,6 @@ TextureImporter:
       bones: []
       spriteID: ef18d122675e85ba0800000000000000
       internalID: -6099873399732076034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: green_1
-      rect:
-        serializedVersion: 2
-        x: 935
-        y: 668
-        width: 7
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 114d80f42eaf90c40800000000000000
-      internalID: 5479186271568450577
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      green_0: -6099873399732076034
-      green_1: 5479186271568450577
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

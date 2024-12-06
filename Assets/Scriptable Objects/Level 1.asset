@@ -29,9 +29,9 @@ MonoBehaviour:
   scoreGoals: 2c0100005802000020030000
   endGameRequirements:
     gameType: 0
-    counterValue: 20
+    counterValue: 10
   levelGoals:
   - numberNeeded: 20
-    numberCollected: 12
+    numberCollected: 13
     goalSprite: {fileID: 654979175, guid: 79145d5f753bb2b41892a643b6760a6e, type: 3}
     matchValue: blue

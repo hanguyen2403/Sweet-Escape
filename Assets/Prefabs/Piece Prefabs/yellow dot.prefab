@@ -152,9 +152,9 @@ MonoBehaviour:
   isColumnBomb: 0
   isRowBomb: 0
   isAdjacentBomb: 0
-  adjacentMarker: {fileID: 8303845282954941747, guid: 5b3e38e99b504f641a18ed26700070a2, type: 3}
-  rowArrow: {fileID: 6482922767402740815, guid: 80fc83f8221c3d94ab8b3c007e7ebd5b, type: 3}
-  columnArrow: {fileID: 5989208238941581752, guid: 7fc9ebb32a446f345b7392e722a4be13, type: 3}
+  adjacentMarker: {fileID: 5852061179415919233, guid: fc90e3d3902f1f54b97bd3f656882d56, type: 3}
+  rowArrow: {fileID: 7074254027601990939, guid: 0be0ccc08af756f459d834ca64b91227, type: 3}
+  columnArrow: {fileID: 357873708626624578, guid: b080afbb88ce2c3459a2a32c72872c98, type: 3}
   colorBomb: {fileID: 2728255730087227114, guid: 972451a624abb2942b895651d126f2af, type: 3}
 --- !u!95 &-6456097896062937510
 Animator:
