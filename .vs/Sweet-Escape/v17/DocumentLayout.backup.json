@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\jinxj\\Sweet-Escape\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\base game script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base game script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\ui\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\base game script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base game script\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|c:\\users\\jinxj\\sweet-escape\\assets\\scripts\\base game script\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|C:\\Users\\jinxj\\Sweet-Escape\\assets\\scripts\\base game script\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D7828BF-50F9-FA7D-AE62-61094ACDAF86}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base game script\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,11 +70,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\SoundManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:35:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\UI\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\UI\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:07:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FindMatches.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\FindMatches.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\FindMatches.cs",
@@ -78,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dot.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\Dot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\Dot.cs",
@@ -86,12 +119,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\Dot.cs",
               "ViewState": "AgIAADcCAAAAAAAAAAAiwEECAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:46:11.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T17:46:11.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Game Data Script\\GameData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game Data Script\\GameData.cs",
@@ -103,31 +135,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Base Game Script\\Board.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Base Game Script\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Base Game Script\\Board.cs",
-              "ViewState": "AgIAACABAAAAAAAAAAAYwGQBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAiwBYCAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T17:21:54.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T17:21:54.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EndGameManager.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\EndGameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EndGameManager.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\EndGameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EndGameManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T16:27:21.895Z"
+              "WhenOpened": "2024-12-03T16:27:21.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GoalManager.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\GoalManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GoalManager.cs",
@@ -135,11 +167,12 @@
               "RelativeToolTip": "Assets\\Scripts\\GoalManager.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwEQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:49:05.877Z"
+              "WhenOpened": "2024-12-02T17:49:05.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "GoalPanel.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\GoalPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GoalPanel.cs",
@@ -147,11 +180,12 @@
               "RelativeToolTip": "Assets\\Scripts\\GoalPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:49:01.937Z"
+              "WhenOpened": "2024-12-02T17:49:01.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FadePanelController.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\FadePanelController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FadePanelController.cs",
@@ -159,11 +193,12 @@
               "RelativeToolTip": "Assets\\Scripts\\FadePanelController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:06:17.286Z"
+              "WhenOpened": "2024-12-02T17:06:17.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CanvasScaler.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
@@ -171,22 +206,24 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Layout\\CanvasScaler.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:31:10.295Z"
+              "WhenOpened": "2024-11-30T18:31:10.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Dot.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dot.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Dot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Dot.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:40:01.379Z"
+              "WhenOpened": "2024-11-30T17:40:01.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "HintManager.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\HintManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HintManager.cs",
@@ -194,11 +231,12 @@
               "RelativeToolTip": "Assets\\Scripts\\HintManager.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAvwDAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:33:12.751Z"
+              "WhenOpened": "2024-11-30T16:33:12.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BackgroundTile.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\BackgroundTile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundTile.cs",
@@ -206,18 +244,20 @@
               "RelativeToolTip": "Assets\\Scripts\\BackgroundTile.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:03:33.534Z"
+              "WhenOpened": "2024-11-30T14:03:33.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "C:\\Users\\jinxj\\Sweet-Escape\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T06:55:24.83Z"
+              "WhenOpened": "2024-11-30T06:55:24.83Z",
+              "EditorCaption": ""
             }
           ]
         }

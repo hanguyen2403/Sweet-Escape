@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\Base Game Script\HintManager.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Level.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\World.cs" />
+    <Compile Include="Assets\Scripts\UI\GameStartManager.cs" />
     <Compile Include="Assets\Scripts\Base Game Script\FadePanelController.cs" />
     <Compile Include="Assets\Scripts\Base Game Script\Board.cs" />
     <Compile Include="Assets\Scripts\Game Data Script\GameData.cs" />

@@ -548,7 +548,9 @@ public class Board : MonoBehaviour
             Debug.Log("Deadlocked!!!");
         }
         yield return new WaitForSeconds(refillDelay);
-        currentState = GameState.move;
+        System.GC.Collect();
+        if(currentState != GameState.pause)
+            currentState = GameState.move;
         streakValue = 1;
 
     }
